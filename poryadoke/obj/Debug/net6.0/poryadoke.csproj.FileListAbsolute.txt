@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\Howework8\poryadoke\bin\Debug\net6.0\poryadoke.exe
+E:\Users\X\Desktop\Howework8\poryadoke\bin\Debug\net6.0\poryadoke.deps.json
+E:\Users\X\Desktop\Howework8\poryadoke\bin\Debug\net6.0\poryadoke.runtimeconfig.json
+E:\Users\X\Desktop\Howework8\poryadoke\bin\Debug\net6.0\poryadoke.dll
+E:\Users\X\Desktop\Howework8\poryadoke\bin\Debug\net6.0\poryadoke.pdb
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.AssemblyInfo.cs
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.dll
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\refint\poryadoke.dll
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.pdb
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\poryadoke.genruntimeconfig.cache
+E:\Users\X\Desktop\Howework8\poryadoke\obj\Debug\net6.0\ref\poryadoke.dll
